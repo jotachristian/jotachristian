@@ -5,7 +5,7 @@
       </div>
 <br>
 
-<h2 style="text-align: center;">Saudações terráqueos, Eu sou o Christian 👋</h2>
+<h2 align= "center">Saudações terráqueos, Eu sou o Christian 👋</h2>
 
 👨‍🎓 - $Estudos = <br>
 Estudante de Ciências da Computação na Estácio de Sá, <br>
