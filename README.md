@@ -48,4 +48,8 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 </div>
 
 
-![snake gif](https://github.com/jotachristian/jotachristian/blob/output/github-contribution-grid-snake.gif)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotachristian/jotachristian/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotachristian/jotachristian/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jotachristian/jotachristian/output/github-contribution-grid-snake.svg">
+</picture>
