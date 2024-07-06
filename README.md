@@ -49,4 +49,5 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jotachristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/jotachristian/jotachristian/blob/output/snake.svg)
+
+![snake gif](https://github.com/jotachristian/jotachristian/blob/output/github-contribution-grid-snake.gif)
