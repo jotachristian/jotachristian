@@ -16,7 +16,7 @@ Focando em linguagens de programação Backend incluindo Python, C# e Php. <br>
 Quero contribuir com a segurança de informações no meio digital e ofertar solução de marketing para empresas que ainda não se inseriram no meio tecnológico, com meus conhecimentos de Full Stack. <br>
 🧔 - $Sobre = Sou brasileiro, Tenho 20 anos e quando não estou no PC estou no meio musical <br>
 
-<h1>Estou Aprendendo</h1>
+<h2 align= "center">Learning</h2>
             <div>
             	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" heigth="40px"/>
 	     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40px" heigth="40px"/>
@@ -26,7 +26,7 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 	    </div>
           
 	   
-<h2>Contatos:</h2>
+<h2 align= "center">Social</h2>
 
 <div>
 <a href="https://www.youtube.com/channel/UCnMQ-1yJ_0oCvIAADxpeJgw" target="_blank">
