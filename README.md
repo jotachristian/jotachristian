@@ -40,7 +40,7 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jotachristian&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=2ADAF8&text_color=FFF&border_radius=3&border_color=2ADAF8&icon_color=2ADAF8&theme=jolly" alt="GitHub stats">
  
 <a href="https://github.com/jotachristian">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jotachristian&line_height=40&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=2ADAF8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=2ADAF8&count_private=true heigth=140px" alt="Most Used Languages">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jotachristian&line_height=40&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=2ADAF8&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=2ADAF8&count_private=true" alt="Most Used Languages">
 </div>
 
 #
