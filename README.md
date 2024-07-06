@@ -3,8 +3,9 @@
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ADAF8&center=true&vCenter=true&random=false&width=524&lines=BEM-VINDOS+AO+MEU+PERFIL!" alt="Typing SVG">
         </a>
       </div>
+<br>
 
-## Saudações terráqueos, Eu sou o Christian 👋
+<h2 style="text-align: center;">Saudações terráqueos, Eu sou o Christian 👋</div>h2>
 
 👨‍🎓 - $Estudos = <br>
 Estudante de Ciências da Computação na Estácio de Sá, <br>
