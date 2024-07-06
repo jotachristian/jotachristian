@@ -1,7 +1,5 @@
 ## Saudações terráqueos, Eu sou o Christian 👋
 
-![snake gif](https://github.com/jotachristian/jotachristian/blob/output/github-contribution-grid-snake.gif)
-
 👨‍🎓 - $Estudos = <br>
 Estudante de Ciências da Computação na Estácio de Sá, <br>
 faço curso técnico em informática voltada para a internet. <br>
