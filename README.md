@@ -1,6 +1,5 @@
 ## Saudações terráqueos, Eu sou o Christian 👋
 
-<!--
 👨‍🎓 - $Estudos = 
 Estudante de Ciências da Computação na Estácio de Sá,
 faço curso técnico em informática voltada para a internet.
@@ -60,4 +59,3 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 </div>
 
 ![Snake animation](https://github.com/jotachristian/jotachristian/blob/output/github-contribution-grid-snake.svg)
--->
