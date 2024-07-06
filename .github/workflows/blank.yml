@@ -29,10 +29,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-          # Definir cores personalizadas
-          color_bg: "#0f0f0f"    # Cor de fundo (exemplo: cinza claro)
-          color_fg: "#ff0000"    # Cor da cobra (exemplo: cinza escuro)
-          color_hb: "#ff4500"    # Cor do alimento (exemplo: laranja avermelhado)
+          # Definir cores personalizadas do tema Drácula
+          color_bg: "#282a36"
+          color_fg: "#f8f8f2"
+          color_hb: "#ff5555"
 
       - name: Show build status
         run: git status
@@ -45,3 +45,4 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
