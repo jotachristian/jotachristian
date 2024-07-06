@@ -47,7 +47,9 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 </a>   
 </div>
 
-<div>
+<div style="text-align: center;" align="center">
+  <h3>Statistics</h3>
+  <br>
 <a href="https://github.com/jotachristian">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotachristian&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jotachristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
