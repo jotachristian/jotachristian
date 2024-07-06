@@ -24,7 +24,8 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
    		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" heigth="40px"/>
 	    </div>
           
-## Contatos:
+	   
+<h2>Contatos:</h2>
 
 <div>
 <a href="https://www.youtube.com/channel/UCnMQ-1yJ_0oCvIAADxpeJgw" target="_blank">
@@ -47,6 +48,8 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 </a>   
 </div>
 
+#
+
 <div style="text-align: center;" align="center">
   <h1>Statistics</h1>
   <br>
@@ -55,6 +58,7 @@ Quero contribuir com a segurança de informações no meio digital e ofertar sol
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jotachristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotachristian/jotachristian/output/github-contribution-grid-snake-dark.svg">
