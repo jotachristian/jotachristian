@@ -5,22 +5,24 @@
       </div>
 <br>
 
-<h2 align= "center">Saudações terráqueos, Eu sou o Christian 👋</h2>
+<h2 align= "center">Tudo bem com  você? Eu sou o Christian 👋</h2>
 
 👨‍🎓 - $Estudos = <br>
 Estudante de Ciências da Computação na Estácio de Sá, <br>
-faço curso técnico em informática voltada para a internet. <br>
+Técnico em informática voltada para a internet, pelo SENAI <br>
 📘 - $Aprendendo = <br>
 Focando em linguagens de programação Backend incluindo Python, C# e Php. <br>
 👯 - $Colaboração = <br>
 Quero contribuir com a segurança de informações no meio digital e ofertar solução de marketing para empresas que ainda não se inseriram no meio tecnológico, com meus conhecimentos de Full Stack. <br>
-🧔 - $Sobre = Sou brasileiro, Tenho 20 anos e quando não estou no PC estou no meio musical <br>
+🧔 - $Sobre = Sou brasileiro, Tenho 21 anos e quando não estou na frente do PC estou no meio musical <br>
 
 <h2 align= "center">Learning</h2>
             <div align="center">
-            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" heigth="40px"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" heigth="40px"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" heigth="40px"/>
 	     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40px" heigth="40px"/>
        		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" heigth="40px"/>
+            	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" heigth="40px"/>
 	 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" heigth="40px"/>
    		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" heigth="40px"/>
 	    </div>
